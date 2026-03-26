@@ -1,0 +1,4 @@
+pywhatkit>=5.0
+pandas
+python-dotenv
+schedule
